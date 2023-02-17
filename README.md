@@ -67,6 +67,10 @@ Build Apk
 #### Release 0.1 Alpha (Current)
 initial release
 
+## Downloads
+
+[Github Releases](https://github.com/Ampers97nd/Librem-Legacy/releases)
+
 ## Details
 - License: GNU GPL v3.0
 - Current App Version: 1

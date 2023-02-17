@@ -32,4 +32,31 @@ Everytime you open the app you are required to Re-login (You have to enter the p
 Chat can be reset
 
 ### Screenshots
+Login UI
+
 ![LoginUI](https://github.com/Ampers97nd/Librem-Legacy/blob/main/Screenshots/LoginUI.png)
+
+
+SignUP UI
+
+![SignUP UI](https://github.com/Ampers97nd/Librem-Legacy/blob/main/Screenshots/SignupUI.png)
+
+
+Messages UI
+
+![Messages UI](https://github.com/Ampers97nd/Librem-Legacy/blob/main/Screenshots/MessagesUI.png)
+
+
+## Changelogs
+
+#### Release 0.1 Alpha (Current)
+initial release
+
+## Details
+License: GNU GPL v3.0
+Current App Version: 1
+Current App Version Name: 0.1 Alpha
+Current App Status: Alpha
+Current Development Status: Supported
+Minimum SDK Version: 7 (Android 2.1 Eclairs)
+Target SDK Version: 33 (Android 13 T)

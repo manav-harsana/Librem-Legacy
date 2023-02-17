@@ -53,10 +53,10 @@ Messages UI
 initial release
 
 ## Details
-License: GNU GPL v3.0
-Current App Version: 1
-Current App Version Name: 0.1 Alpha
-Current App Status: Alpha
-Current Development Status: Supported
-Minimum SDK Version: 7 (Android 2.1 Eclairs)
-Target SDK Version: 33 (Android 13 T)
+- License: GNU GPL v3.0
+- Current App Version: 1
+- Current App Version Name: 0.1 Alpha
+- Current App Status: Alpha
+- Current Development Status: Supported
+- Minimum SDK Version: 7 (Android 2.1 Eclairs)
+- Target SDK Version: 33 (Android 13 T)

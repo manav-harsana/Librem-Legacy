@@ -79,3 +79,4 @@ initial release
 - Current Development Status: Supported
 - Minimum SDK Version: 7 (Android 2.1 Eclairs)
 - Target SDK Version: 33 (Android 13 T)
+- APK Size: 4.18 mb

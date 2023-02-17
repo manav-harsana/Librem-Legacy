@@ -46,6 +46,21 @@ Messages UI
 
 ![Messages UI](https://github.com/Ampers97nd/Librem-Legacy/blob/main/Screenshots/MessagesUI.png)
 
+## How to build?
+Clone repo
+```
+git clone https://github.com/Ampers97nd/Librem-Legacy.git
+```
+
+Go to 
+- [AI2](http://ai2.appinventor.mit.edu/) (Recommended because built in it)
+- [Kodular](kodular.io) (I don't like it but here it is I guess)
+- [Android Builder](androidbuilder.in) (Recommended because more features)
+- [AI2 Offline](https://sourceforge.net/projects/ai2offline/) (Recommended because offline support and slightly more features)
+
+Import AIA file from the Source Code (Alternatively compile the decompiled folder and set extention as .aia and Import that)
+
+Build Apk
 
 ## Changelogs
 

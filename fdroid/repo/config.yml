@@ -1,0 +1,9 @@
+repo_url = "http://projectlibrem.info/fdroid/repo"
+repo_name = "Project Librem"
+repo_icon = "librem-icon.png"
+repo_description = """ A project that aims to disconnect the world from your conversations """ 
+repo_keyalias: archlinux
+keydname: CN=archlinux, OU=F-Droid
+keystorepass: 4ar5R+cto5y8pUM9ChPUgK768oQLtao0Q6i+m3J7Cnk=
+keypass: 4ar5R+cto5y8pUM9ChPUgK768oQLtao0Q6i+m3J7Cnk=
+

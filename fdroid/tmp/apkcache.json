@@ -1,0 +1,75 @@
+{
+  "METADATA_VERSION": 20001,
+  "allow_disabled_algorithms": false,
+  "Librem-Legacy 0.1 Alpha.apk": {
+    "hash": "0e84740aa60bf1b3965b6a864f29677b88e7a12f3ffc6e69cb25e7798f3506c7",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "foss.ampersand.libremlegacy.1.png",
+      "480": "foss.ampersand.libremlegacy.1.png",
+      "320": "foss.ampersand.libremlegacy.1.png",
+      "240": "foss.ampersand.libremlegacy.1.png",
+      "160": "foss.ampersand.libremlegacy.1.png",
+      "0": "foss.ampersand.libremlegacy.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "foss.ampersand.libremlegacy",
+    "versionCode": 1,
+    "name": "Librem legacy",
+    "versionName": "0.1 Alpha",
+    "minSdkVersion": 7,
+    "targetSdkVersion": 33,
+    "sig": "1cfdba999497269eff98fc3e9fb485fd",
+    "signer": "d58d14464c66318739d08ad69d4d2cb195d0842a55ea700da659336f856c1795",
+    "size": 4295632,
+    "apkName": "Librem-Legacy 0.1 Alpha.apk",
+    "icon": "foss.ampersand.libremlegacy.1.png",
+    "added": 1676679982.183744
+  },
+  "config.yml": {
+    "name": "config",
+    "apkName": "config.yml",
+    "hash": "24635966441ed7f27fdfbdef147fb037b84159df43c9a52ea655cbdc89b6f797",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "2463596",
+    "packageName": "24635966441ed7f27fdfbdef147fb037b84159df43c9a52ea655cbdc89b6f797",
+    "size": 380,
+    "added": 1676679982.183983
+  },
+  "keystore.p12": {
+    "name": "keystore",
+    "apkName": "keystore.p12",
+    "hash": "258170ad711862fcef43c31cc90d9d3bdb9d7b534c32b62c094d1c5d01cac8c3",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "258170a",
+    "packageName": "258170ad711862fcef43c31cc90d9d3bdb9d7b534c32b62c094d1c5d01cac8c3",
+    "size": 4270,
+    "added": 1676679982.184212
+  }
+}

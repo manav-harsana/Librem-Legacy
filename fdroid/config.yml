@@ -1,0 +1,33 @@
+---
+repo_url: https://projectlibrem.org/fdroid/repo
+repo_name: Project Librem
+repo_description: "A project that aims to disconnect the world from your
+  conversations. Source code can be found on the github page here:
+  https://github.com/Ampers97nd/Librem-Legacy"
+repo_icon: librem-icon.png
+repo_keyalias: archlinux
+sdk_path: $ANDROID_HOME
+scan_binary: true
+keystore: keystore.p12
+keystorepass: phSYrDa0uqD3cBGnwLQIxqKgUAi441V09kSPlItbwa0=
+keypass: phSYrDa0uqD3cBGnwLQIxqKgUAi441V09kSPlItbwa0=
+keydname: CN=archlinux, OU=F-Droid
+servergitmirrors: https://github.com/Ampers97nd/Librem-Legacy
+androidobservatory: true
+lint_licenses:
+  - GPL-3.0-or-later
+  - GPL-3.0-only
+  - GPL-2.0-or-later
+  - GPL-2.0-only
+  - GPL-1.0-or-later
+  - GPL-1.0-only
+  - AGPL-3.0-or-later
+  - AGPL-3.0-only
+  - AGPL-1.0-or-later
+  - AGPL-1.0-only
+  - LGPL-2.0-only
+  - LGPL-2.0-or-later
+  - LGPL-2.1-or-later
+  - LGPL-2.1-only
+  - LGPL-3.0-only
+  - LGPL-3.0-or-later

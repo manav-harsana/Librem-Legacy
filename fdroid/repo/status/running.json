@@ -1,8 +1,7 @@
 {
   "commandLine": [
-    "/usr/bin/fdroid deploy",
-    "-v"
+    "/usr/bin/fdroid update"
   ],
-  "startTimestamp": 1676719289000,
-  "subcommand": "deploy"
+  "startTimestamp": 1676720664000,
+  "subcommand": "update"
 }

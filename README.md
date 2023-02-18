@@ -62,10 +62,7 @@ Import AIA file from the Source Code (Alternatively compile the decompiled folde
 
 Build Apk
 
-## Changelogs
-
-#### Release 0.1 Alpha (Current)
-initial release
+## [Changelogs](https://github.com/Ampers97nd/Librem-Legacy/blob/main/Changelog.xml)
 
 ## Downloads
 

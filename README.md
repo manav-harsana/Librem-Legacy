@@ -66,7 +66,9 @@ Build Apk
 
 ## Downloads
 
+[SourceForge](https://sourceforge.net/projects/librem-legacy/files/)
 [Github Releases](https://github.com/Ampers97nd/Librem-Legacy/releases)
+[GitLab Releases (Behind github)](https://gitlab.com/librem/Librem-Legacy/-/releases)
 
 ## Details
 - License: GNU GPL v3.0
